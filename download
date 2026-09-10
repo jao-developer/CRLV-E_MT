@@ -1,0 +1,23 @@
+# Resultados e documentos reais
+resultado_mt.json
+crlv_mt.pdf
+*.pdf
+*.bin
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
